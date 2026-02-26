@@ -237,20 +237,8 @@ ECH با رمزنگاری SNI این مشکل را حل می‌کند:
 - **Loon** - برای Loon
 - **Mixed** - ترکیبی (پیش‌فرض)
 
-### 📁 کانفیگ‌های موجود:
-```
-ACL4SSR_Online_Mini_MultiMode_CF.ini (پیشنهادی)
-ACL4SSR_Online_Mini_MultiMode.ini
-```
 
 
-
-
-### 🌐 ASN/IP
-```
-https://raw.githubusercontent.com/ipverse/asn-ip/master/as/13335/ipv4-aggregated.txt
-https://raw.githubusercontent.com/ipverse/asn-ip/master/as/209242/ipv4-aggregated.txt
-```
 
 ---
 
